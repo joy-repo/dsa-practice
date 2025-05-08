@@ -1,6 +1,6 @@
 package org.example.fb;
 
-public class MoveZeros_LKeet238 {
+public class MoveZerosEnd_Leet238 {
 
     static int[] arr = {5,0,6,0,7,0,9};
 
